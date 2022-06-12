@@ -1,0 +1,71 @@
+[{
+    "sector": "Sector C Test Labs",
+    "line": "Blue Line Tram",
+    "color": "#0275d8"
+},
+{
+    "sector": "Sector B Coolant Reserve",
+    "line": "Blue Line Tram",
+    "color": "#0275d8"
+},
+{
+    "sector": "Area 9 Central Transit Hub",
+    "line": "Blue Line Tram",
+    "color": "#0275d8"
+},
+{
+    "sector": "Level 3 Dormitories",
+    "line": "Red Line Tram",
+    "color": "#d9534f"
+},
+{
+    "sector": "Sector G Hydro Electric",
+    "line": "Red Line Tram",
+    "color": "#d9534f"
+},
+{
+    "sector": "Area 3 Medium Secutiry Facilities",
+    "line": "Red Line Tram",
+    "color": "#d9534f"
+},
+{
+    "sector": "Freight Yard",
+    "line": "Red Line Tram",
+    "color": "#d9534f"
+},
+{
+    "sector": "Main Facility Entrance",
+    "line": "Green Line Tram",
+    "color": "#5cb85c"
+},
+{
+    "sector": "Sector E Biodome Complex",
+    "line": "Green Line Tram",
+    "color": "#5cb85c"
+},
+{
+    "sector": "Area 7 Recreational Facilities",
+    "line": "Green Line Tram",
+    "color": "#5cb85c"
+},
+{
+    "sector": "Sector A Training Facilities",
+    "line": "Green Line Tram",
+    "color": "#5cb85c"
+},
+{
+    "sector": "Sector D Administration",
+    "line": "Yellow Line Tram",
+    "color": "#f0ad4e"
+},
+{
+    "sector": "High Altitude Launch Complex",
+    "line": "Yellow Line Tram",
+    "color": "#f0ad4e"
+},
+{
+    "sector": "Sector F Lambda Complex",
+    "line": "Yellow Line Tram",
+    "color": "#f0ad4e"
+}
+]
